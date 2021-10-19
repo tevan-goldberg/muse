@@ -1,0 +1,7 @@
+# H1 Muse(ical) ideas to implement, eventually. 
+
+1. Retrograde: a musical line in reverse, such that the pitches and rhythms go in the exact opposite order. An "exact" retrograde reverses the envelope of the pitches as well, which is only possible in electronic music (think of the classic psychadelic rock guitar lick played in reverse). 
+2. Inversion: This is a function that flips the relative order of notes to each other. This can be applied to intervals both horizontally and vertically, i.e chords and strings. So a typical C major chord has 3 possible positions: root (C E G), 1st inversion (E G C) and second inversion (G C E). Every interval has its opposite, for example a major third corresponds to a minor sixth, a minor second to a major seventh, etc. Same notes, flipped distance.
+3. Tone Row: A set of 12 pitches, corresponding to the 12 possible notes in equal tempered music that lie between one note and its octave. None are allowed to repeat. 
+4. Complementation:  the separation of pitch-class collections into complementary sets, each containing pitch classes absent from the other or rather, "the relation by which the union of one set with another exhausts the aggregate." (from Wiki)
+5. 
